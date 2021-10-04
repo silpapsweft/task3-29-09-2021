@@ -112,7 +112,7 @@ const App = () => {
         />
 
       </View>
-      <View style={{ flex: 1, height: 40, alignItems: 'center', justifyContent: 'center', flexDirection: 'row', justifyContent: 'space-between', marginHorizontal: 20, marginBottom: 20,marginTop:15 }}>
+      <View style={{ flex: 1, height: 40, alignItems: 'center', justifyContent: 'center', flexDirection: 'row', justifyContent: 'space-between', marginHorizontal: 20, marginBottom: 20, marginTop: 15 }}>
         <Button />
       </View>
     </View>

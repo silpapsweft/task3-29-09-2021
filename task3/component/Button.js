@@ -36,8 +36,6 @@ const Button = () => {
                 <FlatList
                 data={Data}
                 renderItem={renderItem}
-                keyExtractor={(item) => item.id}
-                extraData={selectedId}
                 numColumns={numColumns}
             />
 
